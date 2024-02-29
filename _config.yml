@@ -34,6 +34,6 @@ jekyll_tidy:
   compress_html: false
 
 tipue_search:
+  exclude: []
   include:
     pages: true
-    collections: [apples, oranges]
