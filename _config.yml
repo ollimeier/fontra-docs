@@ -32,3 +32,8 @@ jekyll_tidy:
   exclude: []
   # ignore_env: development
   compress_html: false
+
+tipue_search:
+  include:
+    pages: true
+    collections: [apples, oranges]
